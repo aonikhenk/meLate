@@ -1,0 +1,19 @@
+# Flutter / Dart
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+
+# Android
+android/.gradle/
+android/.kotlin/
+android/local.properties
+android/app/build/
+android/captures/
+
+# Firebase: cada quien usa su propio archivo
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+functions/node_modules/
